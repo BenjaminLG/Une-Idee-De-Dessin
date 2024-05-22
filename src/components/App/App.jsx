@@ -1,6 +1,7 @@
 
 import './App.css'
 import Header from '../Header/Header'
+import Instruction from '../Instruction/Instruction'
 
 function App() {
   
@@ -8,6 +9,7 @@ function App() {
   return (
     <>
       <Header />
+      <Instruction />
     </>
   )
 }
