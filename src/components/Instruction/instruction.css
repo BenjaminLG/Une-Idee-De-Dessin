@@ -4,8 +4,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 500px;
 }
 
 .instruction__text {
-  width: 500px;
+  
 }

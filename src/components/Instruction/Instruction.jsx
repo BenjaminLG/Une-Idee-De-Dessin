@@ -1,5 +1,5 @@
 
-
+import './Instruction.css'
 
 function Instruction() {
   
