@@ -1,0 +1,11 @@
+
+.instruction {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.instruction__text {
+  width: 500px;
+}

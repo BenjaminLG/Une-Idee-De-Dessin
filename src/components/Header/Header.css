@@ -1,4 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+
+.header {
+  display: flex;
+  width: 600px;
+  margin: 20px 10px;
+}
 
 .header__title {
   color: rgb(88, 168, 214);
+  font-size: 40px;
+  font-family: "Poetsen One", sans-serif;
 }
