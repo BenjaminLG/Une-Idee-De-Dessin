@@ -1,6 +1,6 @@
 
 import { useState } from 'react';
-import './Choise'
+import './Choise.css'
 
 import data from '../../data/data'
 
