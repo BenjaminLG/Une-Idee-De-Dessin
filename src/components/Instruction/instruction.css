@@ -1,12 +1,17 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
 .instruction {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 500px;
+  width: 400px;
 }
 
 .instruction__text {
-  
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 15;
+  margin: 0px 0px 30px;
 }
