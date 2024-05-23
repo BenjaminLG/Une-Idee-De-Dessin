@@ -1,6 +1,9 @@
 const data = {
   characters: [
     { name: "Mario", source: "Super Mario Bros. - Jeu vidéo" },
+    { name: "Luigi", source: "Super Mario Bros. - Jeu vidéo" },
+    { name: "Wario", source: "Super Mario Bros. - Jeu vidéo" },
+    { name: "Princesse Peach", source: "Super Mario Bros. - Jeu vidéo" },
     { name: "Master Chief", source: "Halo - Jeu vidéo" },
     { name: "Lara Croft", source: "Tomb Raider - Jeu vidéo" },
     { name: "Nathan Drake", source: "Uncharted - Jeu vidéo" },
@@ -30,6 +33,8 @@ const data = {
     { name: "Hermione Granger", source: "Harry Potter - J.K. Rowling" },
     { name: "Katniss Everdeen", source: "Hunger Games - Suzanne Collins" },
     { name: "Legolas", source: "Le Seigneur des Anneaux - J.R.R. Tolkien" },
+    { name: "Aragon", source: "Le Seigneur des Anneaux - J.R.R. Tolkien" },
+    { name: "Gimli", source: "Le Seigneur des Anneaux - J.R.R. Tolkien" },
     { name: "Jon Snow", source: "Game of Thrones - Série TV" },
     { name: "L", source: "Death Note - Manga/Anime" },
     { name: "Light Yagami", source: "Death Note - Manga/Anime" },
@@ -39,6 +44,7 @@ const data = {
     { name: "Serena Williams", source: "Tennis" },
     { name: "LeBron James", source: "Basketball" },
     { name: "Wemby", source: "Basketball" },
+    { name: "Kobe", source: "Basketball" },
     { name: "Lionel Messi", source: "Football" },
     { name: "Cristiano Ronaldo", source: "Football" },
     { name: "Michael Phelps", source: "Natation" },
