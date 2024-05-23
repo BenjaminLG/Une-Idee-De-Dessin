@@ -40,7 +40,7 @@ function Choise() {
       phrase += ` ${randomPlace.name} `;
     }
 
-    setGeneratedPhrase(phrase);
+    setGeneratedPhrase(`" ${phrase.trim()} "`);
   };
 
   return (
